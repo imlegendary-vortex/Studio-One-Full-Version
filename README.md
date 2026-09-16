@@ -242,4 +242,4 @@ This repository serves as the official landing page for Studio One. The software
 **Get the most recent version of Studio One today!**
 
 ---
-**Last updated:** 2026-09-15 22:41:16 UTC
+**Last updated:** 2026-09-16 01:02:02 UTC
